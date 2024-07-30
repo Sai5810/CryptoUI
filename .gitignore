@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CryptoUI/obj
+/x64
+/TradeCore.CLR/x64
+/CryptoUI/bin
